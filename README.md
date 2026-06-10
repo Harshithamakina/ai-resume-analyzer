@@ -19,8 +19,8 @@
 ### Skills
 ![Skills](screenshots/Skills_analyze.png)
 
-### Feedback
-![Feedback](screenshot/Overall_feedback.png)
+### feedback
+![feedback](screenshot/feedback.png)
 
 ---
 
