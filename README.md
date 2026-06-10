@@ -52,7 +52,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/Harshithamakina/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
