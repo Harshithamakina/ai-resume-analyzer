@@ -20,8 +20,7 @@
 ![Skills](screenshots/Skills_analyze.png)
 
 ### feedback
-![feedback](screenshot/feedback.png)
-
+![feedback](screenshots/feedback.png)
 ---
 
 ## ✨ Features
