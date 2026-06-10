@@ -1,0 +1,6 @@
+streamlit==1.36.0
+pdfplumber==0.11.2
+spacy==3.7.5
+pandas==2.2.2
+python-dotenv==1.0.1
+google-generativeai==0.7.2
