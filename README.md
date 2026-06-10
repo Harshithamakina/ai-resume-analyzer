@@ -13,7 +13,14 @@
 ## 📸 Screenshots
 
 <!-- Add screenshots after recording -->
-![App Screenshot](screenshots/app_demo.png)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Skills
+![Skills](screenshots/Skills_analyze.png)
+
+### Feedback
+![Feedback](screenshot/Overall_feedback.png)
 
 ---
 
